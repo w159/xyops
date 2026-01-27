@@ -1,5 +1,12 @@
 # xyOps Changelog
 
+## Version v0.9.43
+
+> January 27, 2026
+
+- Fresh deployment build
+- Clean Docker multi-arch image rebuild (linux/amd64, linux/arm64)
+
 ## Version v0.9.42
 
 > January 26, 2026
